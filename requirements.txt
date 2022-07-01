@@ -1,0 +1,15 @@
+statsmodels==0.12.2
+scipy==1.8.1
+numpy==1.20.3
+pandas==1.4.2
+matplotlib==3.4.3
+pandas_datareader==0.10.0
+seaborn==0.11.2
+datetime==
+plotly==5.8.0
+tensorflow==2.9.1
+tensorflow.keras==2.9.0
+sklearn==1.1.1
+math==0.12.2
+xgboost==1.6.1
+pickle==4.0
